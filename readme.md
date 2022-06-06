@@ -5,7 +5,7 @@ Problem 1:
 ###### Please note: 
 * palindrome_check.py was simply used a visual aid for problem solving
 * boolean_palindrome_check.py is ran in the second test, palindrome_intention_count.py. 
-* To run boolean_palindrome_check.py localy, PLEASE ensure to commit out the word input section at the bottom of the script.
+* To run boolean_palindrome_check.py locally, PLEASE ensure to comment out the word input section at the bottom of the script. Also, if running the palindrome_intention_count.py file please comment those lines back as that file uses this boolean_palindrome_check.py as utility function.
 
 ###### My Steps:
 1. Lowercase the string so all characters so the are all the same case.
