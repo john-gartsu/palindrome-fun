@@ -19,5 +19,5 @@ Problem 2:
 string into a palindrome? 
 (e.g. if input is "abb", then the answer is 1, making it into "abba")
 
-Rephrased into my words:
-** With a string input,  what are the least amount of characters to turn it into a palindrome... What are the least number of character to make the first half to look like th back half
+Problem Rephrased into my words:
+* With a string input,  what are the least amount of characters to turn it into a palindrome... What are the least number of character to make the first half to look like th back half
